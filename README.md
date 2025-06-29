@@ -24,8 +24,10 @@ This is a frontend clone of the **Netflix Sign In page**, built as part of my jo
 ---
 
 ## 📷 Screenshots
+
+## page1
  
-> `![page1](./images/page1.png)`
+> `![screenshort](./images/page1.png)`
 
 ---
 
