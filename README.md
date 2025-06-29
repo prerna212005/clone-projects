@@ -27,10 +27,29 @@ This is a frontend clone of the **Netflix Sign In page**, built as part of my jo
 
 ## page1
  
-> `![screenshort](./images/page1.png)`
+> ![netflix-clone](./image/page1.png)
 
+## page2
+ 
+> ![netflix-clone](./image/page2.png)
+
+## page3
+ 
+> ![netflix-clone](./image/page3.png)
+
+## page4
+ 
+> ![netflix-clone](./image/page4.png)
+
+## page5
+ 
+> ![netflix-clone](./image/page5.png)
+
+## page6
+ 
+> ![netflix-clone](./image/page6.png)
 ---
 
-## 📁 Folder Structure
+
 
 
